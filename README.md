@@ -1,3 +1,2 @@
 # IncomePlanner_Xamarin_App
-
-![2021-01-26_21h28_34](https://user-images.githubusercontent.com/18087437/105894974-95e40980-601d-11eb-9788-63d17822a255.png)
+[![Build status](https://ci.appveyor.com/api/projects/status/mvr67raw43e3sy5a?svg=true)](https://ci.appveyor.com/project/marius02/incomeplanner-xamarin-app)
